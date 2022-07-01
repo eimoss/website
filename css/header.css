@@ -1,0 +1,4 @@
+.bg-light-priv {
+    background: rgb(113,44,249);
+    background: linear-gradient(158deg, rgba(113,44,249,1) 0%, rgba(76,11,206,1) 100%);
+}

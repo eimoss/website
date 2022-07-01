@@ -1,0 +1,19 @@
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*{
+    margin: 0;
+    top: 0;
+    left: 0;
+}
+
+/*
+body only back #F2F6F2;
+    */
+body{
+    background: #F2F6F2;
+}
