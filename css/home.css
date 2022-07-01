@@ -27,6 +27,17 @@
 .hero__content h5{
     text-transform: uppercase;font-size: 20;font-weight: bold;
 }
+.button-hero a{
+    border-radius: 5px;
+    padding:5px;
+    background: rgb(49, 117, 243);
+    text-decoration: none;
+    color: white;
+    font-weight: 300;
+}
+.button-hero{
+    margin-top: 5%;
+}
 
 @media only screen and (max-width: 990px) {
 

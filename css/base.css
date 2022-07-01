@@ -17,3 +17,7 @@ body only back #F2F6F2;
 body{
     background: #c1c5c1 !important;
 }
+
+::-webkit-scrollbar {
+    width: 0px;
+  }
