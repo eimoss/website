@@ -29,11 +29,12 @@
 }
 .button-hero a{
     border-radius: 5px;
-    padding:5px;
+    padding:5px 25px;
     background: rgb(49, 117, 243);
     text-decoration: none;
     color: white;
     font-weight: 300;
+    width: 100px;
 }
 .button-hero{
     margin-top: 5%;
